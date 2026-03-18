@@ -14,10 +14,10 @@ module tb_RiscV_Top();
 
     initial begin
         clk = 0;
-        rst = 0;
+        rst = 1;
 
         #20;
-        rst = 1;
+        rst = 0;
 
         #200;
         $stop;
