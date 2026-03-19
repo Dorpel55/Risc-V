@@ -1,6 +1,6 @@
 # 32-Bit RISC-V Single-Cycle Processor
-This project features a functional 32-bit single-cycle CPU based on the RISC-V
-Designed and implemented from scratch using SystemVerilog
+This project implements a functional 32-bit single-cycle RISC-V CPU,
+designed from scratch using SystemVerilog.
 
 ## Key Features
 - **Full Datapath Integration:** Includes a custom built ALU, Control Unit, 32-register File, and PC logic.
